@@ -50,13 +50,13 @@ I focus on combining research-oriented thinking with practical software engineer
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,bash" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
 **Core Areas:**
