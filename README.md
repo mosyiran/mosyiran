@@ -95,12 +95,12 @@ I use my GitHub repositories to demonstrate practical AI engineering, software d
 
 | Project | Focus |
 |---|---|
-| [AWS Terraform](https://github.com/mosyiran/AWS-Terraform) | Infrastructure as Code |
-| [All Repositories](https://github.com/mosyiran?tab=repositories) | Explore my development work |
+| [AWS Terraform](https://github.com/mosyiran/ai-invoice-intelligence) | AI Invoice Intelligence & Financial Document Processing |
+
 
 ### AI Engineering Projects
 
-The following are the core projects in Futture I am developing and prioritising for my portfolio:
+The following are the core projects in Future I am developing and prioritising for my portfolio:
 
 - **RAG Document Assistant** — document ingestion, embeddings, vector search and grounded answers.
 - **Multi-Agent AI System** — agent orchestration, tool calling and state management with LangGraph.
