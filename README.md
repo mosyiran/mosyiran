@@ -95,7 +95,7 @@ I use my GitHub repositories to demonstrate practical AI engineering, software d
 
 | Project | Focus |
 |---|---|
-| [AWS Terraform](https://github.com/mosyiran/ai-invoice-intelligence) | AI Invoice Intelligence & Financial Document Processing |
+| [AI Invoice Intelligence & Financial Document Processing](https://github.com/mosyiran/ai-invoice-intelligence) | AI Invoice Intelligence & Financial Document Processing |
 
 
 ### AI Engineering Projects
